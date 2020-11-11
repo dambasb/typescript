@@ -2,6 +2,9 @@
 
 /annotations
 
+/sort/node_modules
+/sort/build
+
 arrays.ts
 classes.ts
 index.js
