@@ -5,11 +5,13 @@
 /sort/node_modules
 /sort/build
 
+/stats/node_modules
+/stats/build
+/stats/src/CsvFileReader.bak
+
 arrays.ts
 classes.ts
 index.js
 index.ts
 interfaces.js
 interfaces.ts
-
-
